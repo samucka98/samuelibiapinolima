@@ -1,0 +1,26 @@
+{
+  "name": "samuelibiapinolima",
+  "version": "1.0.0",
+  "description": "Meu site pessoal",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samucka98/samuelibiapinolima.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samucka98/samuelibiapinolima/issues"
+  },
+  "homepage": "https://github.com/samucka98/samuelibiapinolima#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
